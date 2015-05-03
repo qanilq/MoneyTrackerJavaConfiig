@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="MoneyTrackerJavaConfiig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MoneyTrackerJavaConfiig.war">
+      <element id="artifact" artifact-name="MoneyTrackerJavaConfiig:war exploded" />
+    </root>
+  </artifact>
+</component>

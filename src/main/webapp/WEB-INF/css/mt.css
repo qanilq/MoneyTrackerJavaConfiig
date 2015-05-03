@@ -1,0 +1,158 @@
+body {
+    background: #6bcf2b;
+    background-repeat: no-repeat;
+    background-position: 0% 25%;
+    background-attachment: fixed;
+    width:780px;
+    font-family: Verdana, sans-serif;
+    padding: 20px auto 0px;
+    margin:auto;
+}
+#container{
+    padding: 20px 0px;
+    font-size: 150%;
+}
+
+A:link {
+    COLOR: #8F5933; TEXT-DECORATION: none;
+}
+A:visited {
+    COLOR: #8F5933; TEXT-DECORATION: none;
+}
+A:active {
+    COLOR: #8F5933; TEXT-DECORATION: none;
+}
+A:hover {
+    COLOR: #DD861F; TEXT-DECORATION: none;
+}
+
+A.footerl:link {
+    COLOR: #000; TEXT-DECORATION: none;
+}
+A.footerl:visited {
+    COLOR: #000; TEXT-DECORATION: none;
+}
+A.footerl:active {
+    COLOR: #000; TEXT-DECORATION: none;
+}
+A.footerl:hover {
+    COLOR: #8F5933; TEXT-DECORATION: underline;
+}
+
+.container {
+    background-color: #FFF;
+    border: 1px solid #AAAAAA;
+}
+
+#top-header{
+    font-size: 60px;
+    padding: 10px;
+    border: 1px solid #669CC0;
+    background-color: #fff1e3;
+    text-align: center;
+}
+.navigation {
+    letter-spacing: 1px;
+    word-spacing: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 125%
+    float: left;
+    text-align: left;
+    background-color: #b7faff;
+    padding: 30px 15px 13px 15px;
+}
+
+#loginFailedMsg{
+    font-size: 125%;
+    color:red;
+}
+.headingBorder{
+   /* border: 1px solid;*/
+    padding: 5px;
+    background-color: #669CC0;
+}
+.logo {
+    border-bottom: 5px solid #FDED73;
+    text-align: right;
+    color: #F1A93B;
+    font-size: 24px;
+    padding: 15px;
+}
+.logo em{
+    display:block;
+    text-align: right;
+    color: #CC0000;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+.image {
+    background: url(photo_header.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    width: 100%;
+    height: 279px;
+}
+
+.boxcontain {
+    background-color: #A2A2A3;
+    width: 46%;
+    float: right;
+    height: 147px;
+}
+
+.bluebox {
+    height: 100px;
+    border-bottom: 2px dotted #FFF;
+    border-right: 2px dotted #FFF;
+    background: #669CC0 url(dots.gif);
+    background-repeat: no-repeat;
+    background-position: 99% 97%;
+    float: left;
+    width: 80%;
+}
+
+.rightgrey {
+    background: #A2A2A3;
+    height: 147px;
+    float: left;
+}
+
+.content {
+    padding: 5px;
+}
+
+.leftcontent {
+    background:#fff;
+    padding:20px;
+}
+
+h3 {
+    color: #F1A93B;
+    padding: 0;
+    margin: 0 0 5px 0;
+    text-decoration: underline;
+    width: 50%;
+}
+
+#images {
+    background-image: url(images_tree.jpg);
+    border: 1px dashed black;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 0 5px 5px 0;
+}
+
+.footer {
+    font-size: 11px;
+    padding: 0 3px 3px 3px;
+    float: right;
+}
+
+.bottomnav {
+    font-size: 10px;
+    text-align: left;
+    padding: 0 3px 3px 3px;
+}
